@@ -1,0 +1,44 @@
+****** Documentação dos Scripts Cypress ******
+
+Neste documento, você encontra uma descrição detalhada dos scripts de teste Cypress para o nosso projeto.
+
+Requisitos de Instalação:
+Antes de começar, você deve garantir que seu ambiente de desenvolvimento atenda aos seguintes requisitos:
+
+* Node.js 
+
+Cypress requer o Node.js para ser executado. Você pode instalá-lo a partir do site oficial (https://nodejs.org/).
+
+* Cypress 
+
+Siga estas etapas para instalar o Cypress:
+
+1. Abra um terminal de comando.
+
+2. Navegue até o diretório do seu projeto.
+
+3. Execute o seguinte comando para instalar o Cypress:
+
+npm install cypress --save-dev
+
+
+
+
+***** Executando Testes Cypress ******
+
+1. Abra um terminal de comando.
+
+2. Navegue até o diretório do seu projeto.
+
+3. Execute o seguinte comando para abrir a interface do Cypress:
+
+npx cypress open
+
+
+
+
+Isso abrirá a janela do Cypress onde você pode selecionar o teste que deseja executar.
+
+***** Scripts de Teste ******
+
+Nossos scripts de teste estão localizados na pasta `cypress/e2e/`.

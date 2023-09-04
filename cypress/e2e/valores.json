@@ -1,0 +1,9 @@
+{
+    "cadastroSuccess": {
+      "firstname": "Marcos",
+      "lastname": "Test",
+      "email": "marcos.test@example.com",
+      "password": "@123345senhavalida",
+      "passwordConfirmation": "@123345senhavalida"
+    }
+  }
